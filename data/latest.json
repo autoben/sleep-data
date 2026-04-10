@@ -6,7 +6,7 @@
   },
   "date" : "2026-04-09",
   "device" : "Apple Watch Watch",
-  "generated_at" : "2026-04-10T10:35:32+08:00",
+  "generated_at" : "2026-04-10T18:50:22+08:00",
   "history_7day" : {
     "avg_deep_minutes" : 48,
     "avg_hrv_ms" : 47.8,
@@ -42,7 +42,7 @@
   "respiratory_rate" : {
     "sleep_mean_brpm" : 13.7
   },
-  "resting_heart_rate_bpm" : 53,
+  "resting_heart_rate_bpm" : 51,
   "sleep_heart_rate" : {
     "max_bpm" : 59,
     "mean_bpm" : 51.7,
