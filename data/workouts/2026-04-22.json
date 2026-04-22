@@ -1,0 +1,261 @@
+{
+  "date" : "2026-04-22",
+  "generated_at" : "2026-04-23T06:20:58+08:00",
+  "workout_count" : 1,
+  "workouts" : [
+    {
+      "active_energy_kcal" : 275,
+      "distance_meters" : 1300,
+      "duration_minutes" : 28,
+      "end" : "13:02",
+      "end_iso" : "2026-04-22T13:02:14+08:00",
+      "heart_rate" : {
+        "max_bpm" : 149,
+        "mean_bpm" : 124.4,
+        "min_bpm" : 75,
+        "series" : [
+          {
+            "bpm" : 82,
+            "t" : 0
+          },
+          {
+            "bpm" : 99,
+            "t" : 1
+          },
+          {
+            "bpm" : 103,
+            "t" : 2
+          },
+          {
+            "bpm" : 110,
+            "t" : 3
+          },
+          {
+            "bpm" : 116,
+            "t" : 4
+          },
+          {
+            "bpm" : 115,
+            "t" : 6
+          },
+          {
+            "bpm" : 123,
+            "t" : 7
+          },
+          {
+            "bpm" : 125,
+            "t" : 14
+          },
+          {
+            "bpm" : 126,
+            "t" : 17
+          },
+          {
+            "bpm" : 128,
+            "t" : 18
+          },
+          {
+            "bpm" : 131,
+            "t" : 19
+          },
+          {
+            "bpm" : 131,
+            "t" : 20
+          },
+          {
+            "bpm" : 130,
+            "t" : 21
+          },
+          {
+            "bpm" : 129,
+            "t" : 22
+          },
+          {
+            "bpm" : 132,
+            "t" : 23
+          },
+          {
+            "bpm" : 135,
+            "t" : 24
+          },
+          {
+            "bpm" : 143,
+            "t" : 25
+          },
+          {
+            "bpm" : 145,
+            "t" : 26
+          },
+          {
+            "bpm" : 149,
+            "t" : 27
+          }
+        ],
+        "zones" : {
+          "z1_minutes" : 3,
+          "z1_upper" : 107,
+          "z2_minutes" : 2,
+          "z2_upper" : 125,
+          "z3_minutes" : 8,
+          "z3_upper" : 143,
+          "z4_minutes" : 2,
+          "z4_upper" : 161,
+          "z5_minutes" : 0,
+          "z5_upper" : 179
+        },
+        "zones_source" : "age_formula"
+      },
+      "id" : "FCD3ECB5-16F7-4F90-93A8-C1B0D1C53F54",
+      "indoor" : false,
+      "recovery" : {
+        "hrr_1min" : 24,
+        "hrr_2min" : 32,
+        "post_30min_mean_bpm" : 117.2,
+        "same_day_hrv_mean_ms" : 37.5,
+        "same_day_hrv_sample_count" : 9
+      },
+      "start" : "12:34",
+      "start_iso" : "2026-04-22T12:34:10+08:00",
+      "swimming" : {
+        "laps" : [
+          {
+            "duration_seconds" : 75.7,
+            "index" : 1,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 79,
+            "index" : 2,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 58.1,
+            "index" : 3,
+            "stroke_style" : "mixed"
+          },
+          {
+            "duration_seconds" : 38.3,
+            "index" : 4,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 38.3,
+            "index" : 5,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 69.7,
+            "index" : 6,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 59.9,
+            "index" : 7,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 31.8,
+            "index" : 8,
+            "stroke_style" : "mixed"
+          },
+          {
+            "duration_seconds" : 39.7,
+            "index" : 9,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 42.1,
+            "index" : 10,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 62.7,
+            "index" : 11,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 83.9,
+            "index" : 12,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 82.6,
+            "index" : 13,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 70.9,
+            "index" : 14,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 76,
+            "index" : 15,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 50.1,
+            "index" : 16,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 93.1,
+            "index" : 17,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 100.9,
+            "index" : 18,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 30.7,
+            "index" : 19,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 51.2,
+            "index" : 20,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 81.1,
+            "index" : 21,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 32.1,
+            "index" : 22,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 46.2,
+            "index" : 23,
+            "stroke_style" : "breaststroke"
+          },
+          {
+            "duration_seconds" : 39,
+            "index" : 24,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 23.3,
+            "index" : 25,
+            "stroke_style" : "freestyle"
+          },
+          {
+            "duration_seconds" : 92.6,
+            "index" : 26,
+            "stroke_style" : "breaststroke"
+          }
+        ],
+        "location_type" : "pool",
+        "pool_length_meters" : 50,
+        "total_strokes" : 507
+      },
+      "total_energy_kcal" : 303,
+      "type" : "Swimming",
+      "type_raw" : 46
+    }
+  ]
+}
