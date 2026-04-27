@@ -1,6 +1,18 @@
 {
   "days" : [
     {
+      "awake_minutes" : 8,
+      "blood_oxygen_mean_percent" : 95.6,
+      "core_minutes" : 285,
+      "date" : "2026-04-26",
+      "deep_minutes" : 48,
+      "hrv_mean_ms" : 42.9,
+      "rem_minutes" : 148,
+      "sleep_efficiency_percent" : 98.4,
+      "sleep_heart_rate_mean_bpm" : 52.8,
+      "total_sleep_minutes" : 481
+    },
+    {
       "awake_minutes" : 13,
       "blood_oxygen_mean_percent" : 94,
       "core_minutes" : 229,
