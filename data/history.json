@@ -1,6 +1,18 @@
 {
   "days" : [
     {
+      "awake_minutes" : 54,
+      "blood_oxygen_mean_percent" : 94.8,
+      "core_minutes" : 227,
+      "date" : "2026-05-12",
+      "deep_minutes" : 38,
+      "hrv_mean_ms" : 50,
+      "rem_minutes" : 122,
+      "sleep_efficiency_percent" : 87.8,
+      "sleep_heart_rate_mean_bpm" : 49.5,
+      "total_sleep_minutes" : 387
+    },
+    {
       "awake_minutes" : 41,
       "blood_oxygen_mean_percent" : 92.4,
       "core_minutes" : 231,
@@ -349,19 +361,6 @@
       "sleep_efficiency_percent" : 98.6,
       "sleep_heart_rate_mean_bpm" : 60.6,
       "total_sleep_minutes" : 351
-    },
-    {
-      "awake_minutes" : 105,
-      "blood_oxygen_mean_percent" : 91.7,
-      "core_minutes" : 220,
-      "date" : "2026-04-11",
-      "deep_minutes" : 39,
-      "hrv_mean_ms" : 23.9,
-      "rem_minutes" : 48,
-      "resting_heart_rate_bpm" : 72,
-      "sleep_efficiency_percent" : 74.5,
-      "sleep_heart_rate_mean_bpm" : 69.9,
-      "total_sleep_minutes" : 307
     }
   ]
 }
