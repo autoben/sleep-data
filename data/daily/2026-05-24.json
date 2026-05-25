@@ -5,8 +5,8 @@
     "total_readings" : 8
   },
   "date" : "2026-05-24",
-  "device" : "Apple Watch",
-  "generated_at" : "2026-05-25T09:43:23+08:00",
+  "device" : "Apple Watch Watch",
+  "generated_at" : "2026-05-25T11:09:05+08:00",
   "history_7day" : {
     "avg_deep_minutes" : 60,
     "avg_hrv_ms" : 36.5,
@@ -36,12 +36,12 @@
     "sleep_min_ms" : 32.7
   },
   "respiratory_rate" : {
-    "sleep_mean_brpm" : 15.7
+    "sleep_mean_brpm" : 15.8
   },
-  "resting_heart_rate_bpm" : 61,
+  "resting_heart_rate_bpm" : 58,
   "sleep_heart_rate" : {
     "max_bpm" : 95,
-    "mean_bpm" : 59.3,
+    "mean_bpm" : 59.4,
     "min_bpm" : 47
   },
   "sleep_summary" : {
