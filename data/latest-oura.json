@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "fetched_at": "2026-05-25T10:25:03+08:00",
+  "fetched_at": "2026-05-25T10:30:02+08:00",
   "endpoints": {
     "sleep": {
       "data": [
@@ -1870,7 +1870,7 @@
           "day": "2026-05-24",
           "day_summary": "normal",
           "recovery_high": 7200,
-          "stress_high": 3600
+          "stress_high": 4500
         }
       ],
       "next_token": null,
