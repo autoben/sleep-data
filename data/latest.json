@@ -1,190 +1,220 @@
 {
   "blood_oxygen" : {
-    "readings_below_90_count" : 1,
-    "sleep_mean_percent" : 95,
-    "total_readings" : 10
+    "readings_below_90_count" : 2,
+    "sleep_mean_percent" : 93.3,
+    "total_readings" : 9
   },
-  "date" : "2026-05-26",
-  "device" : "Apple Watch",
-  "generated_at" : "2026-05-27T08:50:53+08:00",
+  "date" : "2026-05-27",
+  "device" : "Apple Watch Watch",
+  "generated_at" : "2026-05-28T08:12:51+08:00",
   "history_7day" : {
-    "avg_deep_minutes" : 66,
-    "avg_hrv_ms" : 36.9,
-    "avg_rem_minutes" : 85,
+    "avg_deep_minutes" : 57,
+    "avg_hrv_ms" : 37.1,
+    "avg_rem_minutes" : 84,
     "avg_resting_hr_bpm" : 56,
-    "avg_sleep_minutes" : 343,
-    "trend_direction" : "declining"
+    "avg_sleep_minutes" : 346,
+    "trend_direction" : "stable"
   },
   "hrv" : {
     "sample_count" : 4,
     "samples" : [
       {
-        "time" : "00:20",
-        "value" : 17.8783590870778
+        "time" : "00:15",
+        "value" : 22.865209198296288
       },
       {
         "time" : "02:15",
-        "value" : 24.751028148320238
+        "value" : 109.45572442038727
       },
       {
         "time" : "04:15",
-        "value" : 30.98177675939778
+        "value" : 31.086929267318546
       },
       {
-        "time" : "06:15",
-        "value" : 83.36733403389246
+        "time" : "06:17",
+        "value" : 26.2811321829209
       }
     ],
-    "sleep_max_ms" : 83.4,
-    "sleep_mean_ms" : 39.2,
-    "sleep_min_ms" : 17.9
+    "sleep_max_ms" : 109.5,
+    "sleep_mean_ms" : 47.4,
+    "sleep_min_ms" : 22.9
   },
   "respiratory_rate" : {
-    "sleep_mean_brpm" : 14.5
+    "sleep_mean_brpm" : 14.7
   },
   "sleep_heart_rate" : {
-    "max_bpm" : 79,
-    "mean_bpm" : 57.1,
-    "min_bpm" : 49
+    "max_bpm" : 84,
+    "mean_bpm" : 56.1,
+    "min_bpm" : 48
   },
   "sleep_summary" : {
-    "bed_time" : "00:19",
-    "sleep_efficiency_percent" : 95.3,
+    "bed_time" : "23:40",
+    "sleep_efficiency_percent" : 94.4,
     "sleep_segments" : [
       {
-        "end" : "00:30",
+        "end" : "23:52",
         "stage" : "Awake",
-        "start" : "00:19"
+        "start" : "23:40"
       },
       {
-        "end" : "00:35",
+        "end" : "23:58",
+        "stage" : "AsleepREM",
+        "start" : "23:52"
+      },
+      {
+        "end" : "00:20",
         "stage" : "AsleepCore",
-        "start" : "00:30"
+        "start" : "23:58"
       },
       {
-        "end" : "00:36",
-        "stage" : "Awake",
-        "start" : "00:35"
+        "end" : "00:22",
+        "stage" : "AsleepDeep",
+        "start" : "00:20"
       },
       {
-        "end" : "01:03",
+        "end" : "00:28",
         "stage" : "AsleepCore",
-        "start" : "00:36"
+        "start" : "00:22"
       },
       {
         "end" : "01:05",
         "stage" : "AsleepDeep",
-        "start" : "01:03"
+        "start" : "00:28"
+      },
+      {
+        "end" : "01:07",
+        "stage" : "Awake",
+        "start" : "01:05"
       },
       {
         "end" : "01:14",
         "stage" : "AsleepCore",
-        "start" : "01:05"
+        "start" : "01:07"
       },
       {
-        "end" : "01:16",
-        "stage" : "AsleepDeep",
+        "end" : "01:19",
+        "stage" : "AsleepREM",
         "start" : "01:14"
       },
       {
-        "end" : "01:41",
+        "end" : "01:51",
         "stage" : "AsleepCore",
-        "start" : "01:16"
+        "start" : "01:19"
       },
       {
-        "end" : "01:44",
-        "stage" : "Awake",
-        "start" : "01:41"
-      },
-      {
-        "end" : "01:52",
-        "stage" : "AsleepCore",
-        "start" : "01:44"
-      },
-      {
-        "end" : "02:31",
+        "end" : "02:12",
         "stage" : "AsleepDeep",
-        "start" : "01:52"
+        "start" : "01:51"
       },
       {
-        "end" : "03:08",
+        "end" : "03:21",
         "stage" : "AsleepCore",
-        "start" : "02:31"
+        "start" : "02:12"
       },
       {
-        "end" : "03:35",
+        "end" : "03:44",
         "stage" : "AsleepREM",
-        "start" : "03:08"
+        "start" : "03:21"
       },
       {
-        "end" : "03:36",
+        "end" : "03:45",
         "stage" : "Awake",
-        "start" : "03:35"
+        "start" : "03:44"
       },
       {
-        "end" : "03:53",
-        "stage" : "AsleepREM",
-        "start" : "03:36"
-      },
-      {
-        "end" : "04:21",
+        "end" : "04:03",
         "stage" : "AsleepCore",
-        "start" : "03:53"
+        "start" : "03:45"
       },
       {
-        "end" : "04:33",
+        "end" : "04:08",
+        "stage" : "Awake",
+        "start" : "04:03"
+      },
+      {
+        "end" : "05:00",
+        "stage" : "AsleepCore",
+        "start" : "04:08"
+      },
+      {
+        "end" : "05:09",
         "stage" : "AsleepDeep",
-        "start" : "04:21"
+        "start" : "05:00"
       },
       {
-        "end" : "05:17",
+        "end" : "05:14",
         "stage" : "AsleepCore",
-        "start" : "04:33"
+        "start" : "05:09"
       },
       {
-        "end" : "05:25",
+        "end" : "05:19",
         "stage" : "AsleepREM",
-        "start" : "05:17"
+        "start" : "05:14"
       },
       {
-        "end" : "06:10",
-        "stage" : "AsleepCore",
-        "start" : "05:25"
-      },
-      {
-        "end" : "06:28",
-        "stage" : "AsleepREM",
-        "start" : "06:10"
-      },
-      {
-        "end" : "06:30",
-        "stage" : "AsleepCore",
-        "start" : "06:28"
-      },
-      {
-        "end" : "06:37",
-        "stage" : "AsleepREM",
-        "start" : "06:30"
-      },
-      {
-        "end" : "06:39",
+        "end" : "05:20",
         "stage" : "Awake",
-        "start" : "06:37"
+        "start" : "05:19"
       },
       {
-        "end" : "06:41",
+        "end" : "05:24",
+        "stage" : "AsleepCore",
+        "start" : "05:20"
+      },
+      {
+        "end" : "05:27",
         "stage" : "AsleepREM",
-        "start" : "06:39"
+        "start" : "05:24"
+      },
+      {
+        "end" : "05:33",
+        "stage" : "AsleepCore",
+        "start" : "05:27"
+      },
+      {
+        "end" : "06:14",
+        "stage" : "AsleepREM",
+        "start" : "05:33"
+      },
+      {
+        "end" : "06:19",
+        "stage" : "Awake",
+        "start" : "06:14"
+      },
+      {
+        "end" : "07:09",
+        "stage" : "AsleepCore",
+        "start" : "06:19"
+      },
+      {
+        "end" : "07:12",
+        "stage" : "AsleepREM",
+        "start" : "07:09"
+      },
+      {
+        "end" : "07:17",
+        "stage" : "AsleepCore",
+        "start" : "07:12"
+      },
+      {
+        "end" : "07:44",
+        "stage" : "AsleepREM",
+        "start" : "07:17"
+      },
+      {
+        "end" : "07:45",
+        "stage" : "Awake",
+        "start" : "07:44"
       }
     ],
     "stages" : {
-      "awake_minutes" : 18,
-      "core_minutes" : 230,
-      "deep_minutes" : 55,
-      "rem_minutes" : 79
+      "awake_minutes" : 27,
+      "core_minutes" : 276,
+      "deep_minutes" : 69,
+      "rem_minutes" : 113
     },
-    "time_in_bed_minutes" : 382,
-    "total_sleep_minutes" : 364,
-    "wake_time" : "06:41"
+    "time_in_bed_minutes" : 485,
+    "total_sleep_minutes" : 458,
+    "wake_time" : "07:45"
   }
 }
