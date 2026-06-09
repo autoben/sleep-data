@@ -1,0 +1,102 @@
+{
+  "date" : "2026-06-08",
+  "generated_at" : "2026-06-09T08:53:52+08:00",
+  "workout_count" : 1,
+  "workouts" : [
+    {
+      "active_energy_kcal" : 31.3,
+      "distance_meters" : 1104.7275078348794,
+      "duration_minutes" : 14,
+      "end" : "07:39",
+      "end_iso" : "2026-06-08T07:39:00+08:00",
+      "heart_rate" : {
+        "max_bpm" : 100,
+        "mean_bpm" : 83.7,
+        "min_bpm" : 67,
+        "series" : [
+          {
+            "bpm" : 82,
+            "t" : 0
+          },
+          {
+            "bpm" : 84,
+            "t" : 1
+          },
+          {
+            "bpm" : 83,
+            "t" : 2
+          },
+          {
+            "bpm" : 81,
+            "t" : 3
+          },
+          {
+            "bpm" : 76,
+            "t" : 4
+          },
+          {
+            "bpm" : 73,
+            "t" : 5
+          },
+          {
+            "bpm" : 70,
+            "t" : 6
+          },
+          {
+            "bpm" : 85,
+            "t" : 7
+          },
+          {
+            "bpm" : 94,
+            "t" : 8
+          },
+          {
+            "bpm" : 98,
+            "t" : 9
+          },
+          {
+            "bpm" : 99,
+            "t" : 10
+          },
+          {
+            "bpm" : 92,
+            "t" : 11
+          },
+          {
+            "bpm" : 80,
+            "t" : 12
+          },
+          {
+            "bpm" : 76,
+            "t" : 13
+          }
+        ],
+        "zones" : {
+          "z1_minutes" : 13,
+          "z1_upper" : 107,
+          "z2_minutes" : 0,
+          "z2_upper" : 125,
+          "z3_minutes" : 0,
+          "z3_upper" : 143,
+          "z4_minutes" : 0,
+          "z4_upper" : 161,
+          "z5_minutes" : 0,
+          "z5_upper" : 179
+        },
+        "zones_source" : "age_formula"
+      },
+      "id" : "27609AC0-3521-46DC-BA42-4A3BB187A96F",
+      "recovery" : {
+        "hrr_1min" : -1,
+        "post_30min_mean_bpm" : 67.7,
+        "same_day_hrv_mean_ms" : 30.5,
+        "same_day_hrv_sample_count" : 11
+      },
+      "start" : "07:25",
+      "start_iso" : "2026-06-08T07:25:00+08:00",
+      "total_energy_kcal" : 45.3,
+      "type" : "Walking",
+      "type_raw" : 52
+    }
+  ]
+}
