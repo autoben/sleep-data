@@ -1,0 +1,156 @@
+{
+  "blood_oxygen" : {
+    "readings_below_90_count" : 0,
+    "sleep_mean_percent" : 96.9,
+    "total_readings" : 8
+  },
+  "date" : "2026-07-06",
+  "device" : "Apple Watch Watch",
+  "generated_at" : "2026-07-07T13:00:12+08:00",
+  "history_7day" : {
+    "avg_deep_minutes" : 56,
+    "avg_hrv_ms" : 44.9,
+    "avg_rem_minutes" : 89,
+    "avg_resting_hr_bpm" : 52,
+    "avg_sleep_minutes" : 379,
+    "trend_direction" : "stable"
+  },
+  "hrv" : {
+    "sample_count" : 4,
+    "samples" : [
+      {
+        "time" : "01:20",
+        "value" : 16.13041209843494
+      },
+      {
+        "time" : "03:10",
+        "value" : 22.623606788881105
+      },
+      {
+        "time" : "05:10",
+        "value" : 37.77465062787449
+      },
+      {
+        "time" : "07:10",
+        "value" : 38.400520433213586
+      }
+    ],
+    "sleep_max_ms" : 38.4,
+    "sleep_mean_ms" : 28.7,
+    "sleep_min_ms" : 16.1
+  },
+  "respiratory_rate" : {
+    "sleep_mean_brpm" : 13.7
+  },
+  "resting_heart_rate_bpm" : 53,
+  "sleep_heart_rate" : {
+    "max_bpm" : 80,
+    "mean_bpm" : 57.3,
+    "min_bpm" : 47
+  },
+  "sleep_summary" : {
+    "bed_time" : "01:17",
+    "sleep_efficiency_percent" : 96.1,
+    "sleep_segments" : [
+      {
+        "end" : "01:29",
+        "stage" : "Awake",
+        "start" : "01:17"
+      },
+      {
+        "end" : "01:30",
+        "stage" : "AsleepREM",
+        "start" : "01:29"
+      },
+      {
+        "end" : "01:58",
+        "stage" : "AsleepCore",
+        "start" : "01:30"
+      },
+      {
+        "end" : "02:43",
+        "stage" : "AsleepDeep",
+        "start" : "01:58"
+      },
+      {
+        "end" : "03:06",
+        "stage" : "AsleepREM",
+        "start" : "02:43"
+      },
+      {
+        "end" : "04:09",
+        "stage" : "AsleepCore",
+        "start" : "03:06"
+      },
+      {
+        "end" : "04:16",
+        "stage" : "AsleepREM",
+        "start" : "04:09"
+      },
+      {
+        "end" : "05:03",
+        "stage" : "AsleepCore",
+        "start" : "04:16"
+      },
+      {
+        "end" : "05:05",
+        "stage" : "AsleepDeep",
+        "start" : "05:03"
+      },
+      {
+        "end" : "05:35",
+        "stage" : "AsleepCore",
+        "start" : "05:05"
+      },
+      {
+        "end" : "05:39",
+        "stage" : "AsleepDeep",
+        "start" : "05:35"
+      },
+      {
+        "end" : "05:43",
+        "stage" : "AsleepCore",
+        "start" : "05:39"
+      },
+      {
+        "end" : "06:35",
+        "stage" : "AsleepREM",
+        "start" : "05:43"
+      },
+      {
+        "end" : "07:29",
+        "stage" : "AsleepCore",
+        "start" : "06:35"
+      },
+      {
+        "end" : "07:33",
+        "stage" : "AsleepDeep",
+        "start" : "07:29"
+      },
+      {
+        "end" : "07:38",
+        "stage" : "AsleepCore",
+        "start" : "07:33"
+      },
+      {
+        "end" : "08:07",
+        "stage" : "AsleepREM",
+        "start" : "07:38"
+      },
+      {
+        "end" : "08:11",
+        "stage" : "Awake",
+        "start" : "08:07"
+      }
+    ],
+    "stages" : {
+      "awake_minutes" : 16,
+      "core_minutes" : 231,
+      "deep_minutes" : 55,
+      "rem_minutes" : 112
+    },
+    "time_in_bed_minutes" : 414,
+    "total_sleep_minutes" : 398,
+    "wake_time" : "08:11"
+  }
+}
