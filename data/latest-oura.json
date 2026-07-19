@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "fetched_at": "2026-07-19T10:20:02+08:00",
+  "fetched_at": "2026-07-19T10:25:02+08:00",
   "endpoints": {
     "sleep": {
       "data": [
@@ -12478,20 +12478,7 @@
       "_pages_fetched": 2
     },
     "workout": {
-      "data": [
-        {
-          "id": "8ab50b2b-394b-4d23-8677-0628b6b32a62",
-          "activity": "walking",
-          "calories": 61.35480880737305,
-          "day": "2026-07-18",
-          "distance": 1136.8118567111671,
-          "end_datetime": "2026-07-18T10:50:00.000+08:00",
-          "intensity": "moderate",
-          "label": null,
-          "source": "confirmed",
-          "start_datetime": "2026-07-18T10:21:00.000+08:00"
-        }
-      ],
+      "data": [],
       "next_token": null,
       "_pages_fetched": 1
     },
