@@ -1,0 +1,250 @@
+{
+  "date" : "2026-07-22",
+  "generated_at" : "2026-07-23T12:26:26+08:00",
+  "workout_count" : 2,
+  "workouts" : [
+    {
+      "active_energy_kcal" : 40.5,
+      "distance_meters" : 767.5011097812992,
+      "duration_minutes" : 20,
+      "end" : "09:32",
+      "end_iso" : "2026-07-22T09:32:00+08:00",
+      "heart_rate" : {
+        "max_bpm" : 85,
+        "mean_bpm" : 68.9,
+        "min_bpm" : 56,
+        "series" : [
+          {
+            "bpm" : 83,
+            "t" : 0
+          },
+          {
+            "bpm" : 79,
+            "t" : 1
+          },
+          {
+            "bpm" : 68,
+            "t" : 2
+          },
+          {
+            "bpm" : 66,
+            "t" : 3
+          },
+          {
+            "bpm" : 67,
+            "t" : 4
+          },
+          {
+            "bpm" : 69,
+            "t" : 5
+          },
+          {
+            "bpm" : 71,
+            "t" : 6
+          },
+          {
+            "bpm" : 73,
+            "t" : 7
+          },
+          {
+            "bpm" : 70,
+            "t" : 8
+          },
+          {
+            "bpm" : 70,
+            "t" : 9
+          },
+          {
+            "bpm" : 69,
+            "t" : 10
+          },
+          {
+            "bpm" : 66,
+            "t" : 11
+          },
+          {
+            "bpm" : 67,
+            "t" : 12
+          },
+          {
+            "bpm" : 67,
+            "t" : 13
+          },
+          {
+            "bpm" : 65,
+            "t" : 14
+          },
+          {
+            "bpm" : 67,
+            "t" : 15
+          },
+          {
+            "bpm" : 66,
+            "t" : 16
+          },
+          {
+            "bpm" : 68,
+            "t" : 17
+          },
+          {
+            "bpm" : 71,
+            "t" : 18
+          },
+          {
+            "bpm" : 67,
+            "t" : 19
+          }
+        ],
+        "zones" : {
+          "z1_minutes" : 19,
+          "z1_upper" : 107,
+          "z2_minutes" : 0,
+          "z2_upper" : 125,
+          "z3_minutes" : 0,
+          "z3_upper" : 143,
+          "z4_minutes" : 0,
+          "z4_upper" : 161,
+          "z5_minutes" : 0,
+          "z5_upper" : 179
+        },
+        "zones_source" : "age_formula"
+      },
+      "id" : "84657709-145D-45FC-BF4B-9D3AAF99D665",
+      "recovery" : {
+        "hrr_5min" : -4,
+        "post_30min_mean_bpm" : 64.6,
+        "same_day_hrv_mean_ms" : 32.2,
+        "same_day_hrv_sample_count" : 11
+      },
+      "start" : "09:12",
+      "start_iso" : "2026-07-22T09:12:00+08:00",
+      "total_energy_kcal" : 60.5,
+      "type" : "Walking",
+      "type_raw" : 52
+    },
+    {
+      "active_energy_kcal" : 75.5,
+      "duration_minutes" : 21,
+      "end" : "12:55",
+      "end_iso" : "2026-07-22T12:55:27+08:00",
+      "heart_rate" : {
+        "max_bpm" : 95,
+        "mean_bpm" : 77.9,
+        "min_bpm" : 67,
+        "series" : [
+          {
+            "bpm" : 73,
+            "t" : 1
+          },
+          {
+            "bpm" : 71,
+            "t" : 2
+          },
+          {
+            "bpm" : 80,
+            "t" : 3
+          },
+          {
+            "bpm" : 75,
+            "t" : 4
+          },
+          {
+            "bpm" : 73,
+            "t" : 5
+          },
+          {
+            "bpm" : 69,
+            "t" : 6
+          },
+          {
+            "bpm" : 74,
+            "t" : 7
+          },
+          {
+            "bpm" : 76,
+            "t" : 8
+          },
+          {
+            "bpm" : 71,
+            "t" : 9
+          },
+          {
+            "bpm" : 84,
+            "t" : 10
+          },
+          {
+            "bpm" : 79,
+            "t" : 11
+          },
+          {
+            "bpm" : 71,
+            "t" : 12
+          },
+          {
+            "bpm" : 86,
+            "t" : 13
+          },
+          {
+            "bpm" : 83,
+            "t" : 14
+          },
+          {
+            "bpm" : 85,
+            "t" : 15
+          },
+          {
+            "bpm" : 79,
+            "t" : 16
+          },
+          {
+            "bpm" : 86,
+            "t" : 17
+          },
+          {
+            "bpm" : 76,
+            "t" : 18
+          },
+          {
+            "bpm" : 82,
+            "t" : 19
+          },
+          {
+            "bpm" : 87,
+            "t" : 20
+          },
+          {
+            "bpm" : 77,
+            "t" : 21
+          }
+        ],
+        "zones" : {
+          "z1_minutes" : 20,
+          "z1_upper" : 107,
+          "z2_minutes" : 0,
+          "z2_upper" : 125,
+          "z3_minutes" : 0,
+          "z3_upper" : 143,
+          "z4_minutes" : 0,
+          "z4_upper" : 161,
+          "z5_minutes" : 0,
+          "z5_upper" : 179
+        },
+        "zones_source" : "age_formula"
+      },
+      "id" : "C8426AE7-87B4-42FE-9633-B884156668B1",
+      "indoor" : false,
+      "recovery" : {
+        "hrr_1min" : -2,
+        "hrr_2min" : 1,
+        "post_30min_mean_bpm" : 71.7,
+        "same_day_hrv_mean_ms" : 32.2,
+        "same_day_hrv_sample_count" : 11
+      },
+      "start" : "12:34",
+      "start_iso" : "2026-07-22T12:34:12+08:00",
+      "total_energy_kcal" : 96.8,
+      "type" : "StrengthTraining",
+      "type_raw" : 50
+    }
+  ]
+}
